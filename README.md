@@ -1,8 +1,8 @@
-- HeadSpaceFocus
+- HeadSpaceFocus :
 I made the "Meditation Content List for Focus" app.
 
 
-- HeadSpaceFocus_Navigation & Modality
+- HeadSpaceFocus_Navigation & Modality :
 Added a function to show detailed information when touching the content by connecting Modality & Navigation.
 
 
